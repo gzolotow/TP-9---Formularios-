@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "torneo-inscripcion",
+    "slug": "torneo-inscripcion",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "backgroundColor": "#0F0F1A"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0F0F1A"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
