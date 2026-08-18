@@ -133,7 +133,7 @@ export default function App() {
           keyboardShouldPersistTaps="handled"
         >
           <Text style={styles.titulo}>Inscripción al Torneo</Text>
-          <Text style={styles.subtitulo}>Valorant - Copa Verano 2026</Text>
+          <Text style={styles.subtitulo}>Fortnite - FNCS 2026</Text>
 
           <CampoFormulario
             label="Nombre del equipo"
